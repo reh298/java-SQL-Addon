@@ -1,4 +1,4 @@
-lass Main {
+class Main {
     public static void main(String[] args) {
         String name="rehana";
         name=name.toLowerCase();
